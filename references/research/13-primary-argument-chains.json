@@ -1,0 +1,83 @@
+{
+  "id": "kierkegaard-perspective",
+  "date": "2026-10-13",
+  "role": "独立研究补证；非评分；不修改已交付research/proposals",
+  "readings": [
+    {
+      "work": "署名作者活动的观点",
+      "url": "https://tekster.kb.dk/text/sks-sfv-txt-root",
+      "actual_scope": "SKS丹麦文；DOM p61–62及98–100成功实读，1848写作/1859后出；随后p58–65重取失败，未扩大读取范围"
+    }
+  ],
+  "argument_chains": [
+    {
+      "topic": "致死的疾病前言：论述怎样面向生活",
+      "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+      "locator": "SKS前言p1–4，Anti-Climacus",
+      "premises": "一项基督教论述的严谨应与建设具体生活相连，而非冷漠地把痛苦作为研究对象。",
+      "reasoning": "不能人人立即读懂，可以是读者前提不足；这和作品自身没有建设性不同。前言借医者在病床边的论述强调关怀位置，又提醒惯常庄严腔可能不再切中对象。",
+      "limits": "不反对严格思考，也不保证人人都能接受；假名的基督教立场不能自动并入别的假名。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "致死的疾病：自我关系、绝望与疗救",
+      "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+      "locator": "前言p4；第一部A之A/B边码7–11",
+      "premises": "自我不是两种成分的清单，而是关系对自身的关联；文本又以由他者设立为前提。",
+      "reasoning": "失调来自这种关系如何关联自身，不能把合成本身等同疾病。能绝望的可能与实际绝望的状态须分开；前言明确本书讨论的绝望是疾病，不是治疗手段。",
+      "limits": "身体病持续不应每刻归罪病人；这是原文自己的限制。不能把精神责任语汇直接做成临床量表；去宗教前提应承认选择性迁移。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "恐惧与战栗：理解与承担",
+      "url": "https://classiques.uqam.ca/classiques/Kierkegaard_Soren/Crainte_et_tremblement/Crainte_et_tremblement.pdf",
+      "locator": "前言、问题I；Johannes de Silentio",
+      "premises": "会解释信仰的概念，并不等于已完成信仰要求。",
+      "reasoning": "文本使个体与普遍伦理的冲突保持尖锐，讲述者不自称已能占据信仰者立场。解释若轻易把冲突消掉，就遗漏了存在性承担的困难。",
+      "limits": "不提供私人确信伤害他人的普遍许可。假名人物的理解边界需保留。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "作者活动的观点：从受助者所在处开始",
+      "url": "https://tekster.kb.dk/text/sks-sfv-txt-root",
+      "locator": "p61–62、98–100",
+      "premises": "懂得更多不能保证帮助有效；受助者可能有自己的执著或误认，并非空白容器。",
+      "reasoning": "先理解他所理解的，耐心听其处境。强迫失恋者承认错误，可能只使其更秘密地依恋原激情。宗教写作里，作者把间接传达解释为先处理误认的接受条件，而非开门宣布对方失败。",
+      "limits": "这是署名作者回顾自身写作的解释，不是外部独立证明其所有作品始终如此；也不授权现代操纵、隐瞒或欺诈。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    }
+  ],
+  "programs": [
+    {
+      "name": "从接受者实际处境开始",
+      "domain_1": "署名观点p61–62个人帮助/失恋",
+      "domain_2": "p98–100宗教写作与间接传达",
+      "status": "原作两场景有源；可作为下一版候选程序，现不自动增补canonical",
+      "independence": "检验交流的接受条件，不是重复自我关系论。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    },
+    {
+      "name": "理解概念与存在承担分开",
+      "domain_1": "恐惧与战栗信仰/伦理",
+      "domain_2": "致死的疾病前言论述/生活责任",
+      "status": "跨假名有类似要求，但不能抹平宗教发言层级",
+      "independence": "检验是否以懂了替代承担。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    },
+    {
+      "name": "自我不是属性清单",
+      "domain_1": "致死的疾病A之A/B",
+      "domain_2": "其他独立领域未核",
+      "status": "单域有限程序",
+      "independence": "检验关系对自身的关联，独立于沟通方法。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    }
+  ],
+  "remaining_reading": [
+    "旧“核对假名归属”宜列为防漂移护栏，不靠它凑作者心智模型数。",
+    "自我关系第二领域需读《非此即彼》第二部选择自我，以及署名宗教讲演；本轮未证明相同程序复现。",
+    "署名观点的回顾性统一与实际假名作品关系尚待完整对读，不能把作者自述当无争议史实。"
+  ],
+  "verdict": "至少三条有限独立推理程序可定位；不等于三条均通过跨域/生成/独特性验证。Kierkegaard含新增候选供下一版取舍，未自动替换。",
+  "score": null
+}

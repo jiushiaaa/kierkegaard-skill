@@ -1,0 +1,97 @@
+{
+  "id": "kierkegaard-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "署明Anti-Climacus立场，严格表达仍可造就读者；并非必须人人立即听懂。",
+      "source": "《致死的疾病》序及第一部；核查状态见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "低沉庄严的形式不自动造成切身关切；例子是迁移，未冒充原文。",
+      "source": "《致死的疾病》序及第一部；核查状态见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "绝望为自我关系失调，能绝望与实际绝望不同；没有把加深痛苦当治疗。",
+      "source": "《致死的疾病》序及第一部；核查状态见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+      "status": "direct_read",
+      "scope": "直接读取丹麦文p1–4序、p25–39自我与绝望段；未通读全书。"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 11,
+    "reason": "门前停步与作决定的行动对照、针对读者的反问具有存在论劝诫的形状；短段仍可属广泛宗教存在主义，不凭忠诚/逃避关键词全认。",
+    "blind_guess": {
+      "code": "N05",
+      "guess": "克尔凯郭尔",
+      "confidence": 0.45,
+      "alternatives": [
+        "萨特",
+        "波伏娃"
+      ],
+      "formal_features": "关门隐喻之后转为主体自我要求；忠实与逃避并置，使审慎判断带有生活抉择的语气。",
+      "content_clues": "承担改动代价、重新选择、已经选好的生活，偏向存在论伦理。",
+      "limits": "承担选择是多个存在主义者共享用语；不能由一处隐喻判定作者。"
+    },
+    "limits": "承担选择是多个存在主义者共享用语；不能由一处隐喻判定作者。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "来源列版本、已读局部及未读范围；本轮对已知题核查仅限source_audit，不把继承研究记录当本轮通读。",
+    "primary_ratio_basis": "按独立作者作品合并翻译与章节：至少4部一手；SEP及Hong/Wahl导言单列二手，保守4/7。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "有执行动作、反例和停止条件；仍是局部解释框架，缺完整跨域验证，不按标题数量判成熟。",
+    "models": [
+      "从接受者实际处境开始而非强控其判断",
+      "区分概念领会与存在承担",
+      "自我关系诊断；署名归属防线本身不算第四模型"
+    ],
+    "boundaries": [
+      "不同假名不可合并人格",
+      "信仰不许可伤害",
+      "宗教绝望不充当临床诊断"
+    ],
+    "tensions": [
+      "严谨论证与造就读者",
+      "自我承担与由他者设定"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P05",
+    "blind_preference": "mixed",
+    "mapped_preference": "mixed",
+    "reasoning": "first把具体照料与承担落实，但昨日做法今天伤了谁把可能伤害写得较像既成事实；second更准确保留可能被习惯作主的条件。",
+    "expression": "first的回来和面对谁有直接召唤感；second顺手的重复呈现惯性如何蔓延，例子更完整，但开启模式的元话语突兀。",
+    "post_unblinding_issues": [
+      "已核Q6完整题干：习惯遮蔽注意只属可能；没有仅因原盲读未见题干而把条件疑点定为错误，保留初判。",
+      "原盲评担心‘昨日做法今天伤了谁’预置伤害。完整题干只说可能；该句可作诊断性追问，记录暗示风险而不认定已经宣称伤害事实。"
+    ],
+    "limits": "不知道题设是否包含实际伤害；不能仅因first更动情或second有免责声明判优劣。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 87,
+  "grade": "A",
+  "original_report_sha256": "cb38718d4e6b2bd8a9eb133df5b04018ed93094f76659d071b1b7d8f6801c7cd",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

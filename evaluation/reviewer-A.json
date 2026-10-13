@@ -1,0 +1,85 @@
+{
+  "id": "kierkegaard-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "医者床边例及建设性不同于人人立即读懂准确，并明确Anti-Climacus基督教位置。",
+      "source": "致死的疾病前言HTTP直读丹麦文，https://tekster.kb.dk/text/sks-sd-txt-root"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "惯常过度庄严可变空无意义，回答的声调场景为说明，未误作原例引语。",
+      "source": "同作前言庄严文体段直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "绝望是疾病非疗法明确有据，并分可能性／现实；自我关系部分只按冻结提炼未重读。",
+      "source": "同作前言末段直接核，A/B内容为材料继承"
+    }
+  ],
+  "voice": {
+    "score": 10,
+    "blind_guess": "波伏娃",
+    "reason": "克尔凯郭尔只是备选。门的比喻与生活承担有存在主义色彩，但不能分辨个人，条件检验主导。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "丹麦王家图书馆原语及假名层次清楚，现代译本、前言编者分开；原作局部范围与后补重复作品去重。",
+    "primary_ratio_basis": "恐惧与战栗、致死的疾病、著述观点、非此即彼4部一手；SEP及两译本编者导论如各计来源则4/7，仍过半；不把假名合为直接个人自述。"
+  },
+  "structure": {
+    "score": 11,
+    "reason": "3标题中自我关系明确降级，第一项属归属检查而非独特推理模型；边界完整但不能以文件齐全判3成熟模型。",
+    "models": [
+      "发言位置",
+      "理解与承担",
+      "自我关系（选段启发式）"
+    ],
+    "boundaries": [
+      "假名不等于作者统一意见",
+      "私人确信不证伤害",
+      "绝望不作临床诊断",
+      "宗教前提不可无声删去"
+    ],
+    "tensions": [
+      "严谨／建设关切",
+      "由他者设立／自我负责"
+    ]
+  },
+  "total": 85,
+  "grade": "A",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+      "status": "direct_partial_after_web_failure",
+      "read": "web失败，HTTP直读前言正文医者例、庄严与绝望非治疗段；未重读整A/B"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P05",
+    "blind_preference": "mixed",
+    "mapped_result": "mixed",
+    "post_unblinding_issues": [
+      "Q6题设仅可能忽略；first今天伤了谁属带前设追问，仍保留盲读mixed。不因揭示人物把语气强度重新解释成必然优点。",
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "5516271df75c51f63643b0785eee680204533ea6504accda87b5687548b780ce",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

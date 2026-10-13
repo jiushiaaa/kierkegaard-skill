@@ -1,0 +1,493 @@
+{
+  "id": "kierkegaard-perspective",
+  "expression": {
+    "url": "https://tekster.kb.dk/text/sks-sfv-txt-root",
+    "sample_count": 20,
+    "population_count": 33,
+    "sample_method": "署名Synspunktet p[47:101]长度>=150的正文自然段，排除小节标题p59及其他短标题；固定种子20261013无放回20段。不混用假名作品。",
+    "samples": [
+      {
+        "locator": "p[47]",
+        "element_id": "iddb9016a9-dc05-4efe-ac2d-d8169bdc0c5b",
+        "sha256_normalized_utf8": "42f21b88421b4e461c600fdef2b9fe5a1f95547efd332cd5ae7c1446cef5c3ac",
+        "metrics": {
+          "characters": 1063,
+          "words": 173,
+          "punctuation_groups": 6,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[48]",
+        "element_id": "id036f8fa5-8c12-45da-966f-9b39bfa9f7c6",
+        "sha256_normalized_utf8": "94b7b64cd91382e1c0a72538a929e62f6260eb80ba74d57c22bc8083c9a52285",
+        "metrics": {
+          "characters": 1334,
+          "words": 226,
+          "punctuation_groups": 8,
+          "question_marks": 0,
+          "semicolons": 3,
+          "colons": 1,
+          "dashes": 2,
+          "first_person_singular": 2
+        }
+      },
+      {
+        "locator": "p[49]",
+        "element_id": "id52ef0f29-9f25-47a0-8af4-2fb957bd1749",
+        "sha256_normalized_utf8": "698f4f9bbc9da91c8f4c6ddbdb387d0bab64f8a7c8320d132b2dfe51c4726007",
+        "metrics": {
+          "characters": 1305,
+          "words": 233,
+          "punctuation_groups": 9,
+          "question_marks": 1,
+          "semicolons": 4,
+          "colons": 0,
+          "dashes": 4,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[50]",
+        "element_id": "id66f137a1-2cc9-41bd-b027-f4fa97573932",
+        "sha256_normalized_utf8": "c5cc45ac47683a1ffcc87acc77cb02a111bef65029718dace9659f35cd30474d",
+        "metrics": {
+          "characters": 693,
+          "words": 122,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 2,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[54]",
+        "element_id": "id5884da28-2eff-4129-bfde-4e1c75b53e45",
+        "sha256_normalized_utf8": "9a09c6eb11ae31f22c562336b1f7280fe3344dc5b02197ad8cbd36e8b513b170",
+        "metrics": {
+          "characters": 276,
+          "words": 44,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[62]",
+        "element_id": "idd3b02c5b-79c6-48b7-b0b5-7128f57b2b0c",
+        "sha256_normalized_utf8": "706f618a9df8da5abbe42ce8119aba2f3a20d70a262bc0388030000e9d80585f",
+        "metrics": {
+          "characters": 1446,
+          "words": 270,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 3,
+          "dashes": 4,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[63]",
+        "element_id": "id0d4813d1-6903-420d-af8c-acac9fc12161",
+        "sha256_normalized_utf8": "bad4ad4f59dd1715ae36419fb1a2c8972cf16d300d81e243e1a6a44cf0cf07b2",
+        "metrics": {
+          "characters": 1223,
+          "words": 215,
+          "punctuation_groups": 8,
+          "question_marks": 1,
+          "semicolons": 2,
+          "colons": 0,
+          "dashes": 6,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[64]",
+        "element_id": "id86ef1c32-93f5-4cf5-a550-dd28604af6fa",
+        "sha256_normalized_utf8": "5948baff5b9e11be651bfd8c98fb5e5bcf38414e3eb074b0dbe1a153959500f4",
+        "metrics": {
+          "characters": 167,
+          "words": 35,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[65]",
+        "element_id": "id6af14b07-e65b-445c-b7b2-815d33db2720",
+        "sha256_normalized_utf8": "8c14bfe00b529d6814cd8fba326782c93cb957e069eaf38f2186d68533be70f9",
+        "metrics": {
+          "characters": 521,
+          "words": 100,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 2,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[66]",
+        "element_id": "ida360dc45-0f7b-4cff-b10c-92611bf549a2",
+        "sha256_normalized_utf8": "7dd87531463e1f7275fbb3c7dd0d61c50802a6195f12b2ba54cb77331bad5eb3",
+        "metrics": {
+          "characters": 729,
+          "words": 126,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 1,
+          "first_person_singular": 1
+        }
+      },
+      {
+        "locator": "p[67]",
+        "element_id": "id97cceeef-797c-440c-918d-615c84051b4d",
+        "sha256_normalized_utf8": "701316f29c4f2fd9b4433c3f4450c59600cc2204e4c50638216d1e373a54cbfd",
+        "metrics": {
+          "characters": 746,
+          "words": 133,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 1,
+          "dashes": 2,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[75]",
+        "element_id": "idf3707e49-0847-4cb0-b8af-5e2e2f80e415",
+        "sha256_normalized_utf8": "3da91ca1e6191709b78fc71c5bb80b859c1087b0e6237a0e87d4eb739f4769e2",
+        "metrics": {
+          "characters": 1140,
+          "words": 195,
+          "punctuation_groups": 5,
+          "question_marks": 0,
+          "semicolons": 3,
+          "colons": 1,
+          "dashes": 3,
+          "first_person_singular": 1
+        }
+      },
+      {
+        "locator": "p[77]",
+        "element_id": "idcf84fb6b-b79f-4506-ba09-b07b9e509786",
+        "sha256_normalized_utf8": "83a52cefb6b12a608c69dd821ffd31d9b0febbfa7de2c040c164ef8be652ee91",
+        "metrics": {
+          "characters": 897,
+          "words": 148,
+          "punctuation_groups": 5,
+          "question_marks": 1,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 1,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[79]",
+        "element_id": "id2fb3f32f-3fbb-48f1-93e1-73167ba9edfa",
+        "sha256_normalized_utf8": "20746db79e469b683762b2f5b71da3ca104c08e46330ace960b106a901ed8351",
+        "metrics": {
+          "characters": 1583,
+          "words": 278,
+          "punctuation_groups": 15,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 3,
+          "dashes": 2,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[85]",
+        "element_id": "id19a2f578-210d-49ff-a926-fa47bcc51c1f",
+        "sha256_normalized_utf8": "b558bd731aeb96ff0e280a9b24401628af7b41acd2f6412db43cefc8464b4d1b",
+        "metrics": {
+          "characters": 687,
+          "words": 131,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 2,
+          "colons": 2,
+          "dashes": 0,
+          "first_person_singular": 3
+        }
+      },
+      {
+        "locator": "p[86]",
+        "element_id": "idf5bf0f74-9de8-49e7-bc99-214a3a4bb334",
+        "sha256_normalized_utf8": "e23cf3c79094fcd42ab0fe9034eee00728ba1f485058ee097f64b2703cbd12b8",
+        "metrics": {
+          "characters": 497,
+          "words": 88,
+          "punctuation_groups": 6,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 1,
+          "first_person_singular": 3
+        }
+      },
+      {
+        "locator": "p[91]",
+        "element_id": "idea913b41-8357-41a8-b18b-badde00dfd91",
+        "sha256_normalized_utf8": "340ec8339257069f4593d30eadb074e21531561d4245db7937cb57e4b51dfd91",
+        "metrics": {
+          "characters": 969,
+          "words": 158,
+          "punctuation_groups": 5,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 2,
+          "dashes": 0,
+          "first_person_singular": 2
+        }
+      },
+      {
+        "locator": "p[92]",
+        "element_id": "idd7dbc797-6718-49db-93ab-10f9da24a42a",
+        "sha256_normalized_utf8": "e10c1d4d23c4599c4a419222a24e472ca6b2a7dcbe60806be8b3e1ca1f5a3650",
+        "metrics": {
+          "characters": 551,
+          "words": 90,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "p[98]",
+        "element_id": "id27ea9be0-6a75-42de-aebc-c9a1ffbfccd9",
+        "sha256_normalized_utf8": "c7a98620a58ab27982d1d7aa3d3645312607e8cb01015ca1ce0c4a3ee45b4504",
+        "metrics": {
+          "characters": 456,
+          "words": 69,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 1
+        }
+      },
+      {
+        "locator": "p[100]",
+        "element_id": "id48dd7dc1-b385-4030-90ea-52a90d885041",
+        "sha256_normalized_utf8": "a489d91ab5afe827d854dca9da1e70694779ae6205002bfe976242a75918e62e",
+        "metrics": {
+          "characters": 791,
+          "words": 136,
+          "punctuation_groups": 5,
+          "question_marks": 1,
+          "semicolons": 2,
+          "colons": 4,
+          "dashes": 0,
+          "first_person_singular": 3
+        }
+      }
+    ],
+    "metrics": {
+      "characters": 17074,
+      "words": 2970,
+      "punctuation_groups": 101,
+      "question_marks": 4,
+      "semicolons": 22,
+      "colons": 19,
+      "dashes": 28,
+      "first_person_singular": 16,
+      "characters_per_punctuation_group": 169.05
+    },
+    "source_language": "da",
+    "style_rules": [
+      {
+        "rule": "把抽象异议安置为一个会说话的人物，用其礼貌口吻暴露其回避；随即回到实际困境。",
+        "anchor": "SFV p48亲切拍肩的异议者；p49讲道者与不听者的错位"
+      },
+      {
+        "rule": "连续重复同一称谓或短词，却逐次改变处境，让积累产生压力；重复要增加新动作。",
+        "anchor": "p47反复列举被称为基督徒的人；p75几次延后成为基督徒"
+      },
+      {
+        "rule": "用第二人称把读者放入现场，长条件句在结尾回到一个短而刺痛的结果。",
+        "anchor": "p62失恋者关闭内心、秘密重新依恋；两次回应句形成回环"
+      },
+      {
+        "rule": "讽刺从角色职责的倒转形成，不靠嘲骂：老师实际索求学生认可，传道者实际迎合听众。",
+        "anchor": "p65教师先学习；p79教师/新年祝贺者类比"
+      },
+      {
+        "rule": "重复动作后突然移动一小步：让人注意→让人判断→不能决定其所判断；用破折号控制转身节奏。",
+        "anchor": "p85–86；本样本破折号28个只是标点计数，不冒充句法证明"
+      },
+      {
+        "rule": "使用作者自行受检的口吻，把方法失败和个人名声的代价放进句子，不以全知老师身份解释一切。",
+        "anchor": "p79可能被当作不虔诚者；p85–86判断反向与风险"
+      }
+    ],
+    "anti_patterns": [
+      "不把假名人物说的“我”当作者自传。",
+      "不把署名回顾当独立证实所有作品始终统一。",
+      "不将戏剧化讽刺写成对现代用户人格的嘲弄。",
+      "不以“悖论”“绝望”等术语替代场景、动作与节奏。",
+      "不要把所有文本拼成先下定义、再做两面平衡的通用中文评论。"
+    ],
+    "metrics_definition": {
+      "characters": "规范化Unicode字符串长度，含空格标点",
+      "words": "Unicode字母词，保留词内撇号",
+      "punctuation_groups": "[.!?]+组数，包括缩写句点，只是句界代理",
+      "first_person_singular": "德语ich或丹麦语jeg精确词形",
+      "other": "分号、冒号、Unicode破折号直接计数；不含普通ASCII连字符",
+      "sample_text": "只保存哈希、定位和计数，不再分发完整原作"
+    },
+    "uncomputed_metrics": [
+      "人工句法平均句长",
+      "类比密度",
+      "确定性语气比例",
+      "作者与译者/时代基线的独特性差异"
+    ],
+    "limitations": [
+      "原语计数不能直接规定中文句长；本轮没有中文盲辨识结果。",
+      "固定局部总体而非全集随机样本；网页层级和段落标记如更动须按哈希复核。",
+      "节首排印字母与部分脚注残余符号会影响少量计数；指标为该规范化电子文本的实际值，不报纸本精确句法统计。"
+    ]
+  },
+  "sources": [
+    {
+      "title": "署名《我的著述活动的观点》",
+      "url": "https://tekster.kb.dk/text/sks-sfv-txt-root",
+      "actual_reading": "p47–100范围内固定抽样20个完整正文自然段全部实读；p59是小节标题，已排除重抽。新增连续p62–67、p85–86等由本轮和既读段构成。",
+      "version": "丹麦王家图书馆SKS电子版；1848写作、1859身后出版。SKS页23–36，网页p编号加element_id与哈希复核。"
+    },
+    {
+      "title": "《非此即彼》第二部",
+      "url": "https://tekster.kb.dk/text/sks-ee2-txt-root",
+      "actual_reading": "连续p221–224、258–262，另p272完整；对应SKS页213–215、236–240、245–246。",
+      "version": "1843，B的书信/法官威廉声音，Victor Eremita编辑框架；丹麦文SKS校訂文本。不要与署名作者或Anti-Climacus自动合并。"
+    }
+  ],
+  "source_catalog_delta": [
+    {
+      "id": "K-R2-SFV",
+      "work": "Synspunktet for min Forfatter-Virksomhed",
+      "url": "https://tekster.kb.dk/text/sks-sfv-txt-root",
+      "author_voice": "署名、回顾性自我解释",
+      "read_scope": "旧p61–62/98–100与新20段样本合并列明，其他段未读"
+    },
+    {
+      "id": "K-R2-EE2",
+      "work": "Enten–Eller. Anden del",
+      "url": "https://tekster.kb.dk/text/sks-ee2-txt-root",
+      "author_voice": "B/法官威廉书信，假名编辑框架",
+      "read_scope": "p221–224/258–262/272，SKS213–215/236–240/245–246"
+    }
+  ],
+  "argument_chains": [
+    {
+      "title": "选择自我不是制造空白的自己",
+      "locator": "EE2 p221–224，SKS213–215",
+      "premise": "选择者已有具体性格、经历与差异，不从一个无内容自我开始。",
+      "reasoning": "选择改变的是对既有具体生活的承担；人仍有原来细节，却因主动承担而改变关系。随后的善恶与悔改讨论说明，承担不等于肯定所有过去行为。",
+      "limit": "这是B的伦理立场，不能用“我选择了”替伤害免责，也不是宣称人凭意志创造所有条件。"
+    },
+    {
+      "title": "具体关系与抽象逃离",
+      "locator": "EE2 p258–262，SKS236–240",
+      "premise": "只把有限世界看作虚妄，可能使个人停在抽象孤立中。",
+      "reasoning": "文本把伦理悔改的动作写成消除或承担其对象，而不是一走了之；选择应回到具体世界。在p261，它明确以初恋与宗教激情相类比，追问一度有过强烈时刻之后，持续生活有什么意义。",
+      "limit": "这些宗教描绘是B对神秘者的批评，不能代表所有基督教论述，更不能据此取消Anti-Climacus的超越关系。"
+    },
+    {
+      "title": "自我是连续任务",
+      "locator": "EE2 p262/272，SKS239–240/245–246",
+      "premise": "个体具有天赋、环境和经历构成的具体差异。",
+      "reasoning": "把这些条件接纳为需要负责的任务，而不是可随意玩弄的可能性；在既成条件中采取行动，使历史具有连续性。",
+      "limit": "这支持伦理形成领域，仍不足证明《致死的疾病》的完整关系公式跨域复现。"
+    },
+    {
+      "title": "使人注意与使人信服不同",
+      "locator": "署名SFV p85–86，SKS32",
+      "premise": "受助者是否接受一个信念，仍涉及他自己的意愿。",
+      "reasoning": "作者区分引起注意、促使判断和决定其判断内容。使对方注意之后，他可能判断相反，甚至敌视传播者；方法承担这种风险。",
+      "limit": "这里的强迫注意不是强迫信仰，更不是操控、欺骗他人的现代许可；作者论殉道不等于劝人寻求伤害。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "从接受者实际处境开始",
+      "primary_domains": [
+        "署名SFV p61–62失恋者的帮助",
+        "p63–67宗教沟通及教师/学习者"
+      ],
+      "cross_domain": "原作双领域明确；本轮p85–86补上结果不受作者掌控的界限",
+      "independent_task": "分析接受条件与对方的自主判断",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "理解概念与存在承担",
+      "primary_domains": [
+        "恐惧与战栗假名信仰",
+        "SFV署名沟通、EE2伦理选择"
+      ],
+      "cross_domain": "原有跨声音类比得到更多依据；不可消除发言层级",
+      "independent_task": "检查解释完成是否被当作生活实践完成",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "自我不是属性清单",
+      "primary_domains": [
+        "致死的疾病Anti-Climacus自我关系",
+        "EE2 B的具体自我选择与责任"
+      ],
+      "cross_domain": "有第二伦理形成对象，但同一技术模型尚未证明；宜称相关程序家族",
+      "independent_task": "区分罗列属性与承担/关联自身",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "新增候选：瞬间意义与持续生活分开",
+      "primary_domains": [
+        "EE2 p261地上初恋",
+        "同段宗教初恋与时间历史"
+      ],
+      "cross_domain": "作者明确双情境复用；同段类比不能冒充多著作独立验证",
+      "independent_task": "追问强烈瞬间之后的生活连续性及行动任务",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    }
+  ],
+  "remaining_gaps": [
+    "第三原模型还没有完成严格同一程序跨域验证，不能凭主题相近升级。",
+    "SKS是可靠数字校订入口，本文只用可见定位；未阅读两篇完整文本校勘报告。",
+    "署名20段是回顾性宗教论说，不能代表全部假名、日记、讲演体裁。"
+  ],
+  "date": "2026-10-13",
+  "mode_policy": {
+    "default": "中性思想分析不变",
+    "optional_voice": "仅明确选择人物表达时加载",
+    "textgame": "不自动加载表达层"
+  },
+  "role": "限定原作证据与表达样本；不是作者全部思想或已验证普遍模型"
+}

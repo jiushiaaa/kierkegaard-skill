@@ -1,0 +1,408 @@
+{
+  "id": "kierkegaard-perspective",
+  "expression": {
+    "sample_method": "固定种子20261013；指定DOM范围中规范化后字符>=150的段落作候选，random.Random.sample无放回20段；不足20全取。网页段落而非研究者拆句。",
+    "sample_count": 20,
+    "population_count": 20,
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "version": "SKS Bd11 2006，前言至第一部A之C开头；Anti-Climacus，不代表全部假名",
+    "source_language": "da",
+    "metrics": {
+      "characters": 17624,
+      "words": 2983,
+      "sentence_terminators": 121,
+      "question_marks": 6,
+      "first_person_singular_tokens": 4,
+      "contrast_tokens": 59,
+      "characters_per_terminator": 145.65,
+      "question_marks_per_terminator": 0.0496,
+      "first_person_per_1000_words": 1.34,
+      "contrast_per_1000_words": 19.78,
+      "analogy_density": null,
+      "certainty_ratio": null
+    },
+    "samples": [
+      {
+        "locator": "p[1] zero-based",
+        "anchor": "id437a20e8-8066-43ff-8a9b-8d59a2ed29f0",
+        "sha256_normalized_utf8": "7f39ba29b742c096ae81f9dcd6c337d6c8d6f987243a8fc42494862f0d5d8ffd",
+        "metrics": {
+          "characters": 2106,
+          "words": 328,
+          "sentence_terminators": 12,
+          "question_marks": 0,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 5
+        }
+      },
+      {
+        "locator": "p[2] zero-based",
+        "anchor": "id9dffae06-c5f4-48d7-85b7-789712da921a",
+        "sha256_normalized_utf8": "a5dc81209500dbcf8f499a0356da3a6e463a1bd8beecbe5eaa9fb8c52d394382",
+        "metrics": {
+          "characters": 184,
+          "words": 30,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[3] zero-based",
+        "anchor": "id6588dc18-19bf-4b9c-8d19-248710f5d4f2",
+        "sha256_normalized_utf8": "f363c7490abb01e9a6573c7030dfb24a490042e3fe1dac433afb1765ec107d1b",
+        "metrics": {
+          "characters": 278,
+          "words": 47,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[4] zero-based",
+        "anchor": "id22d45316-db7b-42e0-baec-e18c8a31801e",
+        "sha256_normalized_utf8": "50613cbc5a26fb79ec761d617c622535aabee9b89d8f2aac0204d72c0ed1a0da",
+        "metrics": {
+          "characters": 435,
+          "words": 65,
+          "sentence_terminators": 3,
+          "question_marks": 0,
+          "first_person_singular_tokens": 2,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "p[15] zero-based",
+        "anchor": "id491db650-1e67-4497-b5a4-1946a22f976b",
+        "sha256_normalized_utf8": "da02f2d32c14fd8a200f57db63f9170e90a2c4d3c5f9a4d3aa75e7ed4cbce1ca",
+        "metrics": {
+          "characters": 2093,
+          "words": 378,
+          "sentence_terminators": 11,
+          "question_marks": 1,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 12
+        }
+      },
+      {
+        "locator": "p[16] zero-based",
+        "anchor": "ide44e0ce7-c315-4000-85ff-885a30378562",
+        "sha256_normalized_utf8": "eab91ac24a3de7b9ca6ef40ec47d0a00c12b4ef1f3a3e6baffb9e6b5b1558da7",
+        "metrics": {
+          "characters": 481,
+          "words": 73,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[17] zero-based",
+        "anchor": "idcc6f3978-a901-4959-9df9-d06eb8808a06",
+        "sha256_normalized_utf8": "c95856e123bd82750eae506a77d1f193f77553c75f42e7c6400087602268fef8",
+        "metrics": {
+          "characters": 1317,
+          "words": 224,
+          "sentence_terminators": 9,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "p[18] zero-based",
+        "anchor": "id390ef438-35a8-4ccb-92a4-13d0fb6c432b",
+        "sha256_normalized_utf8": "0e038baf0c09ceec982e59b66ed8f5ba80923adcbd880e24401fb0519a824149",
+        "metrics": {
+          "characters": 485,
+          "words": 87,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[22] zero-based",
+        "anchor": "id321ce627-59c7-4113-9af3-9761553baa25",
+        "sha256_normalized_utf8": "605c5481d8674e409493638746d62f43c51f290060fea2d37cb455a41ae1c193",
+        "metrics": {
+          "characters": 481,
+          "words": 83,
+          "sentence_terminators": 8,
+          "question_marks": 2,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "p[23] zero-based",
+        "anchor": "id849e7379-2fbb-4c79-8bd5-5444a229f873",
+        "sha256_normalized_utf8": "d6c50c4207f1851d706da66ba98c578d72df5e43058b2451236b49612462d9c0",
+        "metrics": {
+          "characters": 320,
+          "words": 53,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[25] zero-based",
+        "anchor": "idbc700663-b7d1-4524-b6e6-04a7dda605ae",
+        "sha256_normalized_utf8": "433cb14ebedc371ed84ab08372108a0027f62ff54d5c3b0087083d2fa44f93a5",
+        "metrics": {
+          "characters": 211,
+          "words": 38,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[26] zero-based",
+        "anchor": "id04a6ac6b-6dee-4a49-b6da-5ac65ca52d21",
+        "sha256_normalized_utf8": "eeeb6c62fe205a8b840dd980ff78a1e76a7d52c34b0f917efc86618ec416d841",
+        "metrics": {
+          "characters": 1783,
+          "words": 320,
+          "sentence_terminators": 10,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 5
+        }
+      },
+      {
+        "locator": "p[27] zero-based",
+        "anchor": "id6498b0c5-7ecd-4e40-b058-a3f1767c0037",
+        "sha256_normalized_utf8": "c0ce567ab75ae576e1f48e8cbd0b0c5adb48a72bac5a174eb86686c72cb9f29b",
+        "metrics": {
+          "characters": 213,
+          "words": 36,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[29] zero-based",
+        "anchor": "idff76becb-4776-4122-b57a-468cf17ff5c9",
+        "sha256_normalized_utf8": "2b1d0745f2411a6247edea6b8e579ea98c09b3db9ffc43df5d20a86efaa0aace",
+        "metrics": {
+          "characters": 632,
+          "words": 100,
+          "sentence_terminators": 5,
+          "question_marks": 1,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[30] zero-based",
+        "anchor": "id6858fa71-ffd1-4f2f-825f-ce6815f763c1",
+        "sha256_normalized_utf8": "85b9d586dcfd5a9c917157401fdf0cba768e347263d5c15eb4ba1f55dd4c4631",
+        "metrics": {
+          "characters": 1502,
+          "words": 259,
+          "sentence_terminators": 13,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 5
+        }
+      },
+      {
+        "locator": "p[31] zero-based",
+        "anchor": "id534996ca-6ed4-4ed1-a483-830af1bf1eaf",
+        "sha256_normalized_utf8": "75b9debef2b946e87fd8c093fe88ac3cf5bf3e5cde9417700a088f5d6a9ab38c",
+        "metrics": {
+          "characters": 723,
+          "words": 115,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[32] zero-based",
+        "anchor": "id1339d835-e291-4e43-ac15-008ba923a501",
+        "sha256_normalized_utf8": "e25f6327847ed9d909e55754ed7849ad115af87869d11329e09478096b965b80",
+        "metrics": {
+          "characters": 733,
+          "words": 116,
+          "sentence_terminators": 3,
+          "question_marks": 1,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[33] zero-based",
+        "anchor": "ida344a879-b383-4de8-ba57-dff3f824a156",
+        "sha256_normalized_utf8": "d35fa48a3bdbc837a7cc354edcfaba47f7f314b4d1cefa54335fb05be9302095",
+        "metrics": {
+          "characters": 2200,
+          "words": 377,
+          "sentence_terminators": 14,
+          "question_marks": 1,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 6
+        }
+      },
+      {
+        "locator": "p[35] zero-based",
+        "anchor": "id155215d5-f333-41b4-9ef9-750304fa3071",
+        "sha256_normalized_utf8": "3b844457c4600cf1ab0d3e6ea03ce0e61604045c1cbcaea3ab8ebb2fd280f83b",
+        "metrics": {
+          "characters": 650,
+          "words": 111,
+          "sentence_terminators": 9,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "p[36] zero-based",
+        "anchor": "id1447b284-dcc1-4acf-9601-6bec2abf4e16",
+        "sha256_normalized_utf8": "9f60343420616f5c1ae45323ea28cf11191c983876970838a6cff748b39b735d",
+        "metrics": {
+          "characters": 797,
+          "words": 143,
+          "sentence_terminators": 7,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 3
+        }
+      }
+    ],
+    "lexicons": {
+      "first_person": [
+        "jeg"
+      ],
+      "contrast": [
+        "men",
+        "dog",
+        "derimod"
+      ]
+    },
+    "limitations": [
+      "机器抽样与统计实际执行，不等于全篇语义精读；连续实读范围另列。",
+      "标点组是句界代理，缩写、引号及旧拼写会影响；不是人工句法切分。",
+      "代词和连接词仅精确词形计数；法语j开头缩合不计，因此非完备第一人称率。",
+      "类比密度与确定性比例未人工标注，保持null。",
+      "单篇/单体裁样本，不能代表作者全生涯；原语统计不强制映射中文句长。",
+      "网页版本未做纸本校勘，统计只能用于本次有哈希的电子文本。",
+      "20段是单假名、单书早部，不能代表全作者文风。"
+    ],
+    "style_rules": [
+      "固定假名位置后推进区分，不建立全知统一声音。",
+      "借一个日常反例重新限定概念；反复追问所知与所承担的距离。",
+      "可有反讽，但先说清被反讽的是何种自满或空洞。"
+    ],
+    "anti_patterns": [
+      "不靠绝望、跳跃等标签代替推论。",
+      "不把信仰悖论当伤害豁免。",
+      "不把精神责任诊断作为临床指责。"
+    ],
+    "measurement_definition": {
+      "characters": "规范化字符串Python len，包括空格和标点",
+      "words": "Unicode字母词，保留内部法语撇号；数字不计",
+      "sentence_terminators": "正则[.!?]+组数，包括缩写句点，因此仅句界代理",
+      "question_ratio": "问号数/句末标点组数，非人工疑问句率",
+      "normalization": "BeautifulSoup get_text空格连接，连续空白压为一空格；SKS去script/apparatus-criticus/symbol/pagination",
+      "stored_text": "只存摘要/定位/哈希/计数，不存抽样原文"
+    }
+  },
+  "date": "2026-10-13",
+  "role": "独立研究与出题；非评分，不授A/B等级",
+  "coverage": [
+    {
+      "work_period": "1843 恐惧与战栗",
+      "read": "既有前言、问题I与III开头译文",
+      "unread": "全书/丹麦原文未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1849 致死的疾病",
+      "read": "既有A之A/B；本轮丹麦原文前言p1–4；C开头p35–36",
+      "unread": "完整分类、第二部未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "其他假名/署名作品",
+      "read": "未系统读取",
+      "unread": "非此即彼、署名讲演、日记、教会论争",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    }
+  ],
+  "primary_additions": [
+    {
+      "title": "致死的疾病前言",
+      "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+      "locator": "SKS Bd11，Forord，DOM p[1]–[4]连续实读；Anti-Climacus",
+      "reading": "continuous primary text read",
+      "finding": "论述被置于生活责任而非冷漠好奇；严谨不等于人人立即理解，庄严腔也可能空洞。可补概念与存在承担，但两个假名的宗教立场必须分开。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "发言位置先行",
+      "domain_1": "信仰界限：Johannes de Silentio/K1-K2",
+      "domain_2": "基督教建构性诊断：Anti-Climacus/K5前言",
+      "cross_domain_assessment": "跨文本发言层级有证，作为作者一般程序仍需署名自释",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "概念与承担",
+      "domain_1": "信仰/普遍伦理：恐惧与战栗问题I",
+      "domain_2": "论述教育/生活责任：致死的疾病前言",
+      "cross_domain_assessment": "两个场景有据，但不同假名不能无差别统合",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "自我关系",
+      "domain_1": "精神绝望：K5 A A/B",
+      "domain_2": "第二领域未核；身体疾病是限制类比而非第二个相同模型",
+      "cross_domain_assessment": "单域启发式",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    }
+  ],
+  "tensions": [
+    {
+      "pair": "严谨论述／对具体生活负有建设责任",
+      "primary_anchor": "SKS前言p1，非严谨与关怀逻辑冲突",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    },
+    {
+      "pair": "关系由他者设立／自我仍须对其关系负责",
+      "primary_anchor": "K5 A A/B边码7–11；宗教前提内的结构张力，不任意世俗调和",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "20段是单假名、单书早部，不能代表全作者文风。",
+    "当前核对过的是前言和部分A；机器抽样非全书通读。",
+    "发言位置方法仍需作者署名自释对读。"
+  ],
+  "mode_policy": {
+    "default": "中性思想分析",
+    "optional_voice": "仅用户显式选择人物表达时读取表达层；第三人称/框架推演不伪装真实本人",
+    "textgame": "文游不自动加载表达层"
+  },
+  "score": null,
+  "source_classification": "新增依据全部为原作原语电子转录；转载平台本身不等于学术校勘权威。旧证据译文/二手身份保留来源目录标签。"
+}
